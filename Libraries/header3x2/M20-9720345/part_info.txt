@@ -1,0 +1,9 @@
+Manufacturer=Harwin
+PartNumber=M20-9720345
+PartCategory=Connector
+PackageCategory=Header, Vertical
+PinCount=6
+Version=2.4
+Released=2017-08-12 07:55:06
+Downloaded=2024-03-03 11:11:21
+3D=Y

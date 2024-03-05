@@ -1,0 +1,24 @@
+Altium Designer System: Library Component Rule Check
+PCB File : Header15
+Date     : 04/03/2024
+Time     : 09:17:51
+
+
+Name                Warnings
+------------------------------------------------------------------
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-2(183.493mil,705mil) on Multi-Layer And Pad Free-2(183.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-15(1483.493mil,705mil) on Multi-Layer And Pad Free-15(1483.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-14(1383.493mil,705mil) on Multi-Layer And Pad Free-14(1383.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-13(1283.493mil,705mil) on Multi-Layer And Pad Free-13(1283.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-12(1183.493mil,705mil) on Multi-Layer And Pad Free-12(1183.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-11(1083.493mil,705mil) on Multi-Layer And Pad Free-11(1083.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-10(983.493mil,705mil) on Multi-Layer And Pad Free-10(983.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-9(883.493mil,705mil) on Multi-Layer And Pad Free-9(883.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-8(783.493mil,705mil) on Multi-Layer And Pad Free-8(783.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-7(683.493mil,705mil) on Multi-Layer And Pad Free-7(683.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-6(583.493mil,705mil) on Multi-Layer And Pad Free-6(583.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-5(483.493mil,705mil) on Multi-Layer And Pad Free-5(483.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-4(383.493mil,705mil) on Multi-Layer And Pad Free-4(383.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-3(283.493mil,705mil) on Multi-Layer And Pad Free-3(283.979mil,96.48mil) on Multi-Layer
+PCBComponent_1           Duplicate Pad Name On Pads Pad Free-1(83.493mil,705mil) on Multi-Layer And Pad Free-1(83.979mil,96.48mil) on Multi-Layer
+

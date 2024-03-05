@@ -1,0 +1,1 @@
+To use the ATmega328/p component that we've just created we should just copy the Integrated_Library_ATmega328p file to our project, by adding it in Altium Designer in libraries>add libraries

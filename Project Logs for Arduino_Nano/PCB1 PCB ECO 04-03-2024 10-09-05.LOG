@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=D1/TX Pin=J1-1
+Removed Pin From Net: NetName=D0/RX Pin=J1-2
+Removed Pin From Net: NetName=RESET Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=D11/MOSI Pin=J1-14
+Removed Pin From Net: NetName=D12/MISO Pin=J1-15
+Removed Pin From Net: NetName=VIN Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=RESET Pin=J2-3
+Removed Pin From Net: NetName=+5V Pin=J2-4
+Removed Pin From Net: NetName=AREF Pin=J2-13
+Removed Pin From Net: NetName=+3V3 Pin=J2-14
+Removed Pin From Net: NetName=D13/SCK Pin=J2-15
+Removed Member From Class: ClassName=Sheet1 Member=J4
+Change Component Footprint: Designator=J1 Old Footprint=TE_6-103735-4 New Footprint=PCBComponent_1
+Change Component Comment : Designator=J1 Old Comment=6-103735-4 New Comment=both parts are inseparated
+Change Component Designator: OldDesignator=DS3 NewDesignator=DS1
+Change Component Designator: OldDesignator=DS4 NewDesignator=DS2
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change component parameters: Designator = "J1" ("J1"); Footprint = "TE_6-103735-4"; UniqueID = "\ZELDZUJW" ("\ZELDZUJW")
+Change Net Name : Old Net Name=NetDS3_1 New Net Name=NetDS1_1
+Change Net Name : Old Net Name=NetDS4_1 New Net Name=NetDS2_1

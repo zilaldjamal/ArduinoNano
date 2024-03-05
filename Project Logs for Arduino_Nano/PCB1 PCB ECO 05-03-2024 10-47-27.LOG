@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=VIN Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=RESET Pin=J2-3
+Removed Pin From Net: NetName=+5V Pin=J2-4
+Removed Pin From Net: NetName=A7 Pin=J2-5
+Removed Pin From Net: NetName=A6 Pin=J2-6
+Removed Pin From Net: NetName=A5 Pin=J2-7
+Removed Pin From Net: NetName=A4 Pin=J2-8
+Removed Pin From Net: NetName=A3 Pin=J2-9
+Removed Pin From Net: NetName=A2 Pin=J2-10
+Removed Pin From Net: NetName=A1 Pin=J2-11
+Removed Pin From Net: NetName=A0 Pin=J2-12
+Removed Pin From Net: NetName=AREF Pin=J2-13
+Removed Pin From Net: NetName=+3V3 Pin=J2-14
+Removed Pin From Net: NetName=D13/SCK Pin=J2-15
+Change Component Footprint: Designator=C1 Old Footprint=AVX-TAJ-A-2_L New Footprint=CAPPR55-200-1100X500X1200
+Change Component Footprint: Designator=C8 Old Footprint=AVX-TAJ-A-2_L New Footprint=CAPPR55-200-1100X500X1200
+Change Component Comment : Designator=C1 Old Comment=TAJA475K016RNJ New Comment=ECA1HM4R7
+Change Component Comment : Designator=C8 Old Comment=TAJA475K016RNJ New Comment=ECA1HM4R7
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=DA4B9BF5-FC39-4896-B3A7-1417D108A803 New VaultGUID=DA4B9BF5-FC39-4896-B3A7-1417D108A803 Old ItemGUID=AD297953-FF75-4787-8E6B-7165BF7C7416 New ItemGUID=1E17A259-1E82-4417-B227-0BB2F9CA956B Old RevisionGUID=7D8E6AE6-1B37-4CA0-A056-6B46BDEF7CA8 New RevisionGUID=21AD074C-AB34-46F1-A4A0-A0483EBE3E84
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=DA4B9BF5-FC39-4896-B3A7-1417D108A803 New VaultGUID=DA4B9BF5-FC39-4896-B3A7-1417D108A803 Old ItemGUID=AD297953-FF75-4787-8E6B-7165BF7C7416 New ItemGUID=1E17A259-1E82-4417-B227-0BB2F9CA956B Old RevisionGUID=7D8E6AE6-1B37-4CA0-A056-6B46BDEF7CA8 New RevisionGUID=21AD074C-AB34-46F1-A4A0-A0483EBE3E84
+Change component parameters: Designator = "C1" ("C1"); Footprint = "AVX-TAJ-A-2_L"; UniqueID = "\CBWNWGKC" ("\CBWNWGKC")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 05, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 5 mm, Height 12 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAPPR55-200-1100X500X1200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "45mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "45mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "AVX-TAJ-A-2_L"; UniqueID = "\LQTEQAIG" ("\LQTEQAIG")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Electrolytic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1218.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 05, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Radial Lead, Dia 5 mm, Height 12 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "CAPPR55-200-1100X500X1200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "45mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = "45mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J2-16
+Add Pin To Net: Unknown Pin: Pin J2-17
+Add Pin To Net: Unknown Pin: Pin J2-18
+Add Pin To Net: Unknown Pin: Pin J2-19
+Add Pin To Net: Unknown Pin: Pin J2-20
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J2-22
+Add Pin To Net: Unknown Pin: Pin J2-23
+Add Pin To Net: Unknown Pin: Pin J2-24
+Add Pin To Net: Unknown Pin: Pin J2-25
+Add Pin To Net: Unknown Pin: Pin J2-26
+Add Pin To Net: Unknown Pin: Pin J2-27
+Add Pin To Net: Unknown Pin: Pin J2-28
+Add Pin To Net: Unknown Pin: Pin J2-29
+Add Pin To Net: Unknown Pin: Pin J2-30
+Added Member To Class: ClassName=Sheet1 Member=Component J1 both parts are inseparated
+Added Member To Class: ClassName=Sheet1 Member=Component J2 both parts are inseparated

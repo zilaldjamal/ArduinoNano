@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=VIN Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=RESET Pin=J2-3
+Added Pin To Net: NetName=+5V Pin=J2-4
+Added Pin To Net: NetName=A7 Pin=J2-5
+Added Pin To Net: NetName=A6 Pin=J2-6
+Added Pin To Net: NetName=A5 Pin=J2-7
+Added Pin To Net: NetName=A4 Pin=J2-8
+Added Pin To Net: NetName=A3 Pin=J2-9
+Added Pin To Net: NetName=A2 Pin=J2-10
+Added Pin To Net: NetName=A1 Pin=J2-11
+Added Pin To Net: NetName=A0 Pin=J2-12
+Added Pin To Net: NetName=AREF Pin=J2-13
+Added Pin To Net: NetName=+3V3 Pin=J2-14
+Added Pin To Net: NetName=D13/SCK Pin=J2-15
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Capacitor 0.1 uF +/- 5% 16 V 0402
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Capacitor 10 pF +/- 0.25 pF 50 V 0402
+Added Member To Class: ClassName=Sheet1 Member=Component J2 both parts are inseparated
+Added Member To Class: ClassName=Sheet1 Member=Component J3 ZX62D-B-5P8
+Added Member To Class: ClassName=Sheet1 Member=Component R5 330R2J
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ATMEGA328/P
+Added Member To Class: ClassName=Sheet1 Member=Component U2 FT232RL-REEL

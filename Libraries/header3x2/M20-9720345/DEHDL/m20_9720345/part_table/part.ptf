@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'M20_9720345'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harwin", "M20-9720345" (!) = "", "HDRV6W64P254_2X3_762X508X864P", "Header, Vertical", "855-M20-9720345", "https://www.mouser.co.uk/ProductDetail/Harwin/M20-9720345?qs=vF78I%252BjhbY8b2N4EUBH%2Fyg%3D%3D", "", "", "2.54mm (0.1") Pitch DIL Vertical Throughboard Pin Header, 7mm mating pin height, gold (hi-temp mould), 3+3 contacts", "https://cdn.harwin.com/pdfs/M20-972.pdf", "8.64 mm"
+END_PART
+
+END.

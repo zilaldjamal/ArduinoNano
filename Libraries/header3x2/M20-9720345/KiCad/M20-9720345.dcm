@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M20-9720345
+D 2.54mm (0.1") Pitch DIL Vertical Throughboard Pin Header, 7mm mating pin height, gold (hi-temp mould), 3+3 contacts
+K
+F https://cdn.harwin.com/pdfs/M20-972.pdf
+$ENDCMP
+#
+#End Doc Library
